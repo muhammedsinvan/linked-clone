@@ -1,0 +1,259 @@
+body{
+    margin: 0ex;
+}
+.header{
+    width: 100%;
+    height: 70px;
+    display: flex;
+    position:absolute;
+    position: fixed;
+    background: #fff;
+}
+.header-icon{
+    height: 100%;
+    width: 220px;
+}
+.logo-img{
+    width: 35px;
+    padding-left: 180px;
+    padding-top: 18px;
+}
+.header-search{
+    height: 100%;
+    width: 370px;
+    background: #fff;
+
+}
+.search{
+    padding-left: 10px;
+    padding-top: 23px;
+}
+.search-box{
+    padding-left: 100px;
+    padding-top: 10px;
+    border-radius: 4px;
+    border: none;
+    background:hsl(0, 11%, 89%);
+}
+.icons{
+    height: 100%;
+    width: 950px;
+    display: flex;
+}
+.icons-img1{
+    padding-left: 150px;
+    padding-top: 20px;
+}
+.icons-img1 h6{
+    margin-top: -5px;
+}
+.icons-img2{
+    padding-left: 50px;
+    padding-top: 20px;
+}
+.icons-img2 h6{
+    margin-top: -5px;
+    margin-left: -18px;
+}
+.icons-img3{
+    padding-left: 50px;
+    padding-top: 20px;
+}
+.icons-img3 h6{
+    margin-top: -3px;
+}
+.icons-img4{
+    padding-left: 50px;
+    padding-top: 20px;
+}
+.icons-img4 h6{
+    margin-top: -4px;
+    margin-left: -13px;
+}
+.icons-img5{
+    padding-left: 50px;
+    padding-top: 20px;
+}
+.icons-img5 h6{
+    margin-top: -4px;
+    margin-left: -13px;
+}
+.icons-img6{
+    padding-left: 50px;
+    padding-top: 18px;
+}
+.img6{
+    width: 30px;
+    height: 30px;
+    border-radius: 48%;
+}
+.icons-img6 h6{
+    margin-top: -4px;
+margin-left: 7px;
+}
+.side-main{
+    width: 400px;
+    height: 100%;
+    margin-top: 70px;
+}
+.profile{
+    width: 220px;
+    height: 350px;
+    margin-left: 140px;
+    margin-top: 40px;
+    border-radius: 10px;
+    line-height: 0.9;
+    background: #fff;
+   
+}
+.profile-up{
+    width: 220px;
+    height: 50px;
+    background:rgb(163, 64, 64);
+}
+.photo{
+    width: 80px;
+    border-radius: 50%;
+    margin-left: 30px;
+    margin-top: 18px;
+    margin-left: 65px;
+}
+.profile-text h4{
+    padding-left: 40px;
+    padding-top: 50px;
+}
+.profile-text p{
+    padding-left: 57px;
+    line-height: -1px;
+    font-size: 13px;
+    border-bottom: 1px solid grey;
+}
+.profile-text1 p{
+    font-size: 14px;
+    padding-left: 10px;
+}
+.profile-text1 h5{
+    padding-left: 10px;
+}
+.profile-text1 i{
+    padding-left: 180px;
+    border-bottom: 1px solid grey;
+}
+.profile-text2 i{
+    color: grey;
+}
+.profile-text2 p{
+    padding-top: 20px;
+}
+.main{
+    display: flex;
+    background:gainsboro;
+}
+.center{
+    height: 4000px;
+    width: 700px;
+    margin-top: 73px;
+    margin-left: 30px;
+}
+.center-up{
+    width: 700px;
+    height: 120px;
+    margin-top: 30px;
+    border-radius: 8px;
+    background:whitesmoke;
+}
+.text-center{
+    margin-left: 120px;
+    width: 500px;
+    height: 30px;
+    margin-top: 30px;
+    border-radius: 20px;
+    border: none;
+}
+.img-center{
+    width: 50px;
+    height: 50px;
+    border-radius: 48%;
+    margin-left: -570px;
+    margin-bottom: -20px;
+}
+.icon-img{
+    width: 30px;
+    margin-left: 80px;
+    margin-top: 20px;
+}
+.name{
+    margin-left: 120px;
+    margin-top: -27px;
+}
+.icon-img1{
+    width: 30px;
+    margin-left: 200px;
+    margin-top: -100px;
+    margin-bottom: 10px;
+}
+.name1{
+    margin-left: 230px;
+    margin-top: -35px;
+}
+.icon-img2{
+    width: 30px;
+    margin-left: 320px;
+    margin-top: -100px;
+    margin-bottom: 10px;
+}
+.name2{
+    margin-left: 350px;
+    margin-top: -35px;
+}
+.icon-img3{
+    width: 30px;
+    margin-left: 420px;
+    margin-top: -100px;
+    margin-bottom: 10px;
+}
+.name3{
+    margin-left: 460px;
+    margin-top: -35px;
+}
+.main-image1{
+    width: 100%;
+    height: 500px;
+    background: #fff;
+    margin-top: 20px;
+    border-radius: 14px;
+}
+.main-image1 p{
+    font-size: 10px;
+    padding-left: 20px;
+    padding-top: 10px;
+    border-bottom: 1px solid black;
+}
+.h1{
+    width: 40px;
+    height: 40px;
+    margin-left: 20px;
+    border-radius: 50%;
+}
+.t1{
+   margin-top: -30px;
+   margin-left: 70px;
+
+}
+.m1{
+    padding-top: 20px;
+    width: 700px;
+    height: 420px;
+    border-radius: 10px;
+    
+}
+.right-text{
+    width: 300px;
+    height: 300px;
+    background: #fff;
+    margin-left: 40px;
+    margin-top: 106px;
+}
+.right-text{
+    padding-left: 20px;
+}
